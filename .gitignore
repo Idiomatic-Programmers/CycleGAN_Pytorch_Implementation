@@ -1,0 +1,5 @@
+.idea
+checkpoints
+datasets/img2ai
+logs
+__pycache__
